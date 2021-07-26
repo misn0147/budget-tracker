@@ -1,4 +1,5 @@
 # My Budgeting - Budget Tracking App
+[GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
 
 My Budgeting is a progressive web application that allows users to track their budgets by adding expenses and deposits to their budget through the "Add/Subtract Funds" buttons with or without a connection. When a user enters a transaction while offline, these transactions are stored in the indexedDB, and transferred to the database when the user reconnects to the internet.
 
@@ -25,7 +26,8 @@ SO THAT my account balance is accurate when I am traveling
 * In terminal run 'npm start'
 
 ## License
-MIT
+This project is covered under the MIT license.
+[Click here for MIT License information.](https://mit-license.org/)
 
 ## Technologies Used
 * JavaScript
