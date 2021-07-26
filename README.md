@@ -2,6 +2,14 @@
 
 My Budgeting is a progressive web application that allows users to track their budgets by adding expenses and deposits to their budget through the "Add/Subtract Funds" buttons with or without a connection. When a user enters a transaction while offline, these transactions are stored in the indexedDB, and transferred to the database when the user reconnects to the internet.
 
+## Table of Contents
+* [User Story](User Story)
+* [Example](Example)
+* [Installation and Usage](#Installation and Usage)
+* [License](#License)
+* [Technologies Used](#Technologies Used)
+* [Questions](#Questions)
+
 ## User Story
 AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
@@ -27,4 +35,4 @@ MIT
 * Mongoose
 
 ## Questions
-For questions or comments, please email 
+For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at missy_natoli@yahoo.com
