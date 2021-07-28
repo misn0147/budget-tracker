@@ -39,4 +39,4 @@ This project is covered under the MIT license.
 * Mongoose
 
 ## Questions
-For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at missy_natoli@yahoo.com
+For more information or if you have any questions about this project, please see my GitHub at [misn0147](https://github.com/misn0147) or reach out to me by email at natoli.missy@gmail.com
